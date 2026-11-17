@@ -21,9 +21,9 @@
 
 ## 🌱 About Me
 
-- 🎓 I'm a Master's student in **Ingénierie Numérique & Intelligence Artificielle (INIA)** at the Faculty of Sciences, Rabat, with an academic background in Mathematics.
-- 📊 📅 **Aug. 2026 – Sep. 2026** — Data Analyst Intern at **[365 Opportunities](https://www.linkedin.com/)**, where I collected, cleaned and analyzed budgetary data, designed interactive Power BI dashboards, developed financial KPIs using DAX, and contributed to data-driven decision-making.
-- 🤖 📅 **Aug. 2026 – Oct. 2026** — AI Intern at **3LM SOLUTION**, where I developed Generative AI features for LinkedIn profile optimization and content generation, building APIs with Python, FastAPI, Pydantic and LLM APIs.
+- 🎓 I'm a Master's student in **Ingénierie Numérique & Intelligence Artificielle (INIA)** at the [Faculty of Sciences](https://www.fsr.ac.ma/), Rabat, with an academic background in Mathematics.
+- 📊 📅 **Aug. 2026 – Sep. 2026** — Data Analyst Intern at **[365 Opportunities](https://www.agence365opportunities.com/)**, where I collected, cleaned and analyzed budgetary data, designed interactive Power BI dashboards, developed financial KPIs using DAX, and contributed to data-driven decision-making.
+- 🤖 📅 **Aug. 2026 – Oct. 2026** — AI Intern at **[3LM SOLUTION](https://www.3lmsolutions.net/)**, where I developed Generative AI features for LinkedIn profile optimization and content generation, building APIs with Python, FastAPI, Pydantic and LLM APIs.
 - 📚 📅 **Apr. 2025 – May 2025** — School Administration Intern at Lycée El General El Kettani, where I organized student data and performed statistical analyses to evaluate academic success rates.
 - 🔬 Currently exploring **Machine Learning, Statistical Modeling, Generative AI, RAG and Agentic AI**, with a particular interest in intelligent industrial applications.
 - 🏭 Building a **Predictive Maintenance & Early Fault Detection** system to investigate abnormal industrial behavior and anticipate equipment failures.
@@ -155,14 +155,14 @@
 
 **Education**
 
-- 🎓 **2025 – 2027:** Master's in Ingénierie Numérique & Intelligence Artificielle — Faculté des Sciences de Rabat.
-- 🎓 **2022 – 2025:** Bachelor's Degree in Mathematics — ESEF Berrechid.
+- 🎓 **2025 – 2027:** Master's in Ingénierie Numérique & Intelligence Artificielle — [Faculté des Sciences](https://www.fsr.ac.ma/) de Rabat.
+- 🎓 **2022 – 2025:** Bachelor's Degree in Mathematics — [ESEF Berrechid](https://www-esef.uh1.ac.ma/).
 ---
 
 ## 🌍 Languages
 
-- 🇲🇦 Arabic — Native.
-- 🇫🇷 French — Upper-Intermediate.
+- 🇲🇦 Arabic  — Native.
+- 🇫🇷 French  — Upper-Intermediate.
 - 🇬🇧 English — Upper-Intermediate.
 - 🇹🇷 Turkish — Beginner.
 
