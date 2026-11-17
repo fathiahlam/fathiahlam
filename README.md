@@ -1,138 +1,213 @@
-# Ahlam Fathi
+ <div align="center">
 
-\<p align="center">   \<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:344C3D,55:718366,100\:B58B61&height=170&section=header&text=AHLAM%20FATHI&fontSize=48&fontColor=F3EEDF&fontAlignY=42&desc=DATA%20SCIENCE%20%20%7C%20%20ANALYTICS%20%20%7C%20%20APPLIED%20AI&descSize=14&descAlignY=68&descColor=F3EEDF](https://capsule-render.vercel.app/api?type=rect\&color=0:344C3D,55:718366,100\:B58B61\&height=170\&section=header\&text=AHLAM%20FATHI\&fontSize=48\&fontColor=F3EEDF\&fontAlignY=42\&desc=DATA%20SCIENCE%20%20%7C%20%20ANALYTICS%20%20%7C%20%20APPLIED%20AI\&descSize=14\&descAlignY=68\&descColor=F3EEDF)" width="100%" alt="Ahlam Fathi — The Botanical Archive"/> \</p>
+  <img height="155" src="./assets/ahlam-avatar.png" alt="Ahlam Fathi — Botanical Research Journal" />
 
-\<p align="center">   \<img src="./assets/ahlam-avatar.png" width="145" alt="Ahlam's illustrated botanical archive avatar"/> \</p>
+  <h1>Hey there! I'm AHLAM FATHI 🌿</h1>
 
-\<p align="center">   \<em>Curious mind. Analytical perspective. Meaningful solutions.\</em> \</p>
+  <h3>Data Science · Analytics · Applied Artificial Intelligence</h3>
 
-\<p align="center">   \<a href="[https://www.linkedin.com/in/ahlam-fathi-308549393](https://www.linkedin.com/in/ahlam-fathi-308549393)">LinkedIn\</a>   &nbsp; · &nbsp;   \<a href="mailto\:ahlamfathi03\@gmail.com">Email\</a>   &nbsp; · &nbsp;   \<a href="[https://github.com/fathiahlam](https://github.com/fathiahlam)">GitHub\</a> \</p>
+  <p><i>"Curious mind, analytical perspective, meaningful discoveries."</i></p>
 
----
+  <a href="https://www.linkedin.com/in/ahlam-fathi-308549393">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-536B58?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ahlamfathi03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-AE8060?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
-### A little about me
-
-Hello, I'm **Ahlam FATHI**, a Mathematics graduate and Master's student in **Digital Engineering & Artificial Intelligence (INIA)** at the [Faculty of Sciences](https://www.fsr.ac.ma/), Rabat, Morocco.
-
-I am fascinated by the process of turning raw information into meaningful knowledge — discovering patterns, understanding complex problems, and developing intelligent solutions.
-
-My mathematical background shapes the way I approach data, while my interests in technology encourage me to turn analytical ideas into practical applications.
-
-I enjoy exploring three interconnected worlds:
-
-- **Data & Discovery** — uncovering patterns, extracting insights and understanding the stories behind data.
-- **Intelligent Systems** — developing predictive models and exploring Machine Learning and Generative AI.
-- **Analytics & Decision-Making** — transforming information into clear visual insights that support better decisions.
-
-Currently exploring the intersection of Data Science, Applied AI and intelligent industrial systems.
-
-📍 Rabat, Morocco
-🎓 Master's in Ingénierie Numérique & Intelligence Artificielle
-🎯 Open to a 4–6 month PFE internship starting February 2027.
+</div>
 
 ---
 
-### Selected explorations
+## 🌱 About Me
 
-A collection of analytical experiments and intelligent systems, from statistical investigations to AI-powered applications.
-
-#### 01 — Industrial Intelligence
-
-**Predictive Maintenance & Early Fault Detection**
-
-*In development*
-
-Exploring how machine learning can identify abnormal industrial sensor behavior and anticipate equipment failures.
-
-`Python` `Scikit-learn` `TensorFlow` `Isolation Forest` `Streamlit`
-
-#### 02 — Knowledge & Language
-
-**Industrial Maintenance Knowledge Copilot**
-
-*In development*
-
-Building a Retrieval-Augmented Generation assistant that explores technical industrial documentation and produces contextualized, source-grounded answers with diagnostic and safety guidance.
-
-`Python` `LangChain` `Hugging Face` `RAG` `FAISS` `ChromaDB`
-
-#### 03 — Predictive Analytics
-
-**Titanic Survival Prediction**
-
-A supervised learning project investigating passenger survival patterns through exploratory data analysis and Random Forest classification.
-
-`Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
-
-#### 04 — Statistical Investigation
-
-**Non-Usage of Digital Public Services**
-
-An analytical study exploring the factors associated with the non-usage of digitized public services through statistical analysis and multiple linear regression.
-
-`Python` `R` `Statsmodels` `OLS`
+- 🎓 I'm a Master's student in **Ingénierie Numérique & Intelligence Artificielle (INIA)** at the Faculty of Sciences, Rabat, with an academic background in Mathematics.
+- 📊 📅 **Aug. 2026 – Sep. 2026** — Data Analyst Intern at **[365 Opportunities](https://www.linkedin.com/)**, where I collected, cleaned and analyzed budgetary data, designed interactive Power BI dashboards, developed financial KPIs using DAX, and contributed to data-driven decision-making.
+- 🤖 📅 **Aug. 2026 – Oct. 2026** — AI Intern at **3LM SOLUTION**, where I developed Generative AI features for LinkedIn profile optimization and content generation, building APIs with Python, FastAPI, Pydantic and LLM APIs.
+- 📚 📅 **Apr. 2025 – May 2025** — School Administration Intern at Lycée El General El Kettani, where I organized student data and performed statistical analyses to evaluate academic success rates.
+- 🔬 Currently exploring **Machine Learning, Statistical Modeling, Generative AI, RAG and Agentic AI**, with a particular interest in intelligent industrial applications.
+- 🏭 Building a **Predictive Maintenance & Early Fault Detection** system to investigate abnormal industrial behavior and anticipate equipment failures.
+- 🧠 Developing an **Industrial Maintenance Knowledge Copilot**, combining LLMs and RAG to retrieve technical knowledge and generate contextualized, source-grounded answers.
+- 🧮 I enjoy combining mathematical reasoning, statistical analysis and programming to understand complex problems and turn data into meaningful insights.
+- 📖 I love reading, travelling and discovering different cultures. I believe curiosity is one of the most valuable tools in learning.
+- 🌿 Beyond technology, I enjoy swimming, exploring nature and appreciating the little details around us.
+- 💼 Currently looking for a **4–6 month PFE Internship in Data Science, Analytics, Business Intelligence or Machine Learning**, starting February 2027.
 
 ---
 
-### My working toolkit
+## 🛠 Tech Stack
 
-**Programming & Data**
+### 💻 Programming & Databases
 
-`Python` `R` `SQL` `C` `Pandas` `NumPy`
+<div align="left">
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+  <img width="12"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/>
+  <img width="12"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R"/>
+  <img width="12"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
+  <img width="12"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
+  <img width="12"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
+</div>
 
-**Statistics & Machine Learning**
+### 📊 Data Science & Visualization
 
-`Scikit-learn` `TensorFlow` `Statsmodels` `Random Forest` `Regression` `PCA` `Classification`
+<div align="left">
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy"/>
+  <img width="12"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas"/>
+  <img width="12"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib"/>
+  <img width="12"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" alt="Plotly"/>
+  <img width="12"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter"/>
+</div>
 
-**Data Visualization & Business Intelligence**
+**Also working with:** `Seaborn` · `ggplot2` · `Statsmodels` · `SPSS`
 
-`Power BI` `DAX` `Power Query` `Tableau` `QlikView` `Matplotlib` `Seaborn` `Plotly`
+### 📈 Business Intelligence
 
-**Generative AI & Intelligent Applications**
+<div align="left">
+  <img height="34" src="https://img.shields.io/badge/Power%20BI-E6B83F?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img height="34" src="https://img.shields.io/badge/Tableau-315A7D?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img height="34" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img height="34" src="https://img.shields.io/badge/QlikView-5C8D45?style=for-the-badge" alt="QlikView"/>
+</div>
 
-`LLMs` `RAG` `Agentic AI` `LangChain` `Hugging Face` `OpenAI API` `FastAPI` `Pydantic`
+### 🧠 Machine Learning & Deep Learning
 
-**Data Infrastructure & Cloud**
+<div align="left">
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn"/>
+  <img width="12"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"/>
+  <img width="12"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch"/>
+</div>
 
-`Hadoop` `PySpark` `MongoDB` `Cassandra` `AWS` `Azure` `Google Cloud`
+`Supervised Learning` · `Random Forest` · `Linear & Multiple Regression` · `OLS` · `PCA` · `MCA` · `Anomaly Detection`
 
-**Development Workflow**
+### 🤖 Generative AI & LLM Engineering
 
-`Git` `GitHub` `Docker` `MySQL` `SQLite`
+<div align="left">
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI"/>
+  <img width="12"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>
+  <img width="12"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="Hugging Face"/>
+</div>
+
+`LLMs` · `RAG` · `Agentic AI` · `LangChain` · `FAISS` · `ChromaDB` · `Sentence Transformers` · `OpenAI API` · `Pydantic`
+
+### ☁️ Big Data & Cloud Computing
+
+<div align="left">
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop"/>
+  <img width="12"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache"/>
+  <img width="12"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"/>
+  <img width="12"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure"/>
+  <img width="12"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud"/>
+</div>
+
+### 🔧 Tools & Workflow
+
+<div align="left">
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+  <img width="12"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
+  <img width="12"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/>
+  <img width="12"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
+</div>
 
 ---
 
-### Where mathematics meets practice
+## 🔍 Areas of Expertise
 
-My academic background in Mathematics has given me a strong foundation in quantitative reasoning, statistical thinking and analytical problem-solving.
+- 📊 **Data Analysis & Business Intelligence** — Data exploration, statistical analysis, KPI monitoring and interactive dashboards.
+- 🧮 **Applied Mathematics & Statistics** — Regression, hypothesis-driven analysis, statistical modeling and dimensionality reduction.
+- 🤖 **Machine Learning & Predictive Analytics** — Classification, predictive modeling, anomaly detection and model evaluation.
+- 🧠 **Generative AI & Intelligent Systems** — LLM applications, RAG architectures, semantic retrieval and AI-powered APIs.
+- 🏭 **Industrial Intelligence** — Predictive maintenance, early fault detection and technical knowledge assistance.
 
-I am particularly interested in applying these foundations to real-world challenges, from financial and business analytics to predictive industrial systems.
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Status |
+|---|---|---|
+| 🏭 Predictive Maintenance | Machine learning and anomaly detection for industrial equipment | In Progress |
+| 🧠 Industrial Maintenance Copilot | RAG-powered assistant for technical industrial documentation | In Progress |
+| 🚢 Titanic Prediction | Survival classification and exploratory data analysis | Completed |
+| 📐 Digital Public Services | Statistical investigation using Python and R | Completed |
+
+---
+
+## 🎓 Education & Certifications
 
 **Education**
 
-- **2025 – 2027:** Master's in Ingénierie Numérique & Intelligence Artificielle — [Faculté des Sciences](https://www.fsr.ac.ma/) de Rabat.
-- **2022 – 2025:** Bachelor's degree in Mathematics — [ESEF Berrechid](https://www-esef.uh1.ac.ma/).
+- 🎓 **2025 – 2027:** Master's in Ingénierie Numérique & Intelligence Artificielle — Faculté des Sciences de Rabat.
+- 🎓 **2022 – 2025:** Bachelor's Degree in Mathematics — ESEF Berrechid.
+---
+
+## 🌍 Languages
+
+- 🇲🇦 Arabic — Native.
+- 🇫🇷 French — Upper-Intermediate.
+- 🇬🇧 English — Upper-Intermediate.
+- 🇹🇷 Turkish — Beginner.
 
 ---
 
-### Beyond the datasets
+## 📊 GitHub Statistics
 
-Not everything interesting can be measured.
+<div align="center">
 
-I enjoy reading, discovering new places, exploring different cultures and swimming. These experiences keep me curious, open-minded and eager to learn.
+  <img src="https://github-readme-stats.vercel.app/api?username=fathiahlam&show_icons=true&theme=vue&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
 
-I also value teamwork and collaboration, and have participated in event organization and digital communication through student and professional activities.
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathiahlam&layout=compact&theme=vue&hide_border=true" height="165" alt="Most used languages"/>
+
+</div>
+
+### 🌿 GitHub Contribution Overview
+
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fathiahlam&theme=vue" width="95%" alt="GitHub contribution summary"/>
+
+</div>
 
 ---
 
-### Let's exchange ideas
+## 🤝 Let's Connect
 
-Interested in Data Science, Analytics, Machine Learning or intelligent applications?
+<div align="center">
 
-I'm always happy to connect, learn from others and collaborate on meaningful projects.
+  <a href="https://www.linkedin.com/in/ahlam-fathi-308549393">
+    <img src="https://img.shields.io/badge/LinkedIn-536B58?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ahlamfathi03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-AE8060?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/fathiahlam">
+    <img src="https://img.shields.io/badge/GitHub-344C3D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
-\<p align="center">   \<strong>Every dataset has a story. Let's discover what it reveals.\</strong> \</p>
+  <br/><br/>
 
-\<p align="center">   \<a href="[https://www.linkedin.com/in/ahlam-fathi-308549393](https://www.linkedin.com/in/ahlam-fathi-308549393)">Connect on LinkedIn\</a>   &nbsp; · &nbsp;   \<a href="mailto\:ahlamfathi03\@gmail.com">Get in touch\</a> \</p>
+  <i>"The more we explore, the more we discover how much there is to learn."</i>
 
-\<p align="center">   \<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:344C3D,100:718366&height=55&section=footer](https://capsule-render.vercel.app/api?type=rect\&color=0:344C3D,100:718366\&height=55\&section=footer)" width="100%" alt="Botanical Archive footer"/> \</p>
+  <br/><br/>
+
+  🌿 From Rabat, Morocco — with curiosity and a passion for discovery.
+
+</div>
